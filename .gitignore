@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+.idea/
+log/
+venv/
+
+# DataBases
+*.sqlite3
+*.db
+
+# Environments
+.env
+.ven
+
+# Media
+*.jpg
+*.png
+
+# Data
+*.json
+*.csv
+
+
